@@ -9,6 +9,10 @@ public class Carro {
      */
     public static final double VELOCIDADE_LIMITE = 250;
 
+    public final void imprime(){
+        System.out.println(this.nome);
+    }
+
     public String getNome() {
         return nome;
     }
