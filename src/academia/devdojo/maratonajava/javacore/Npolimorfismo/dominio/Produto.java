@@ -2,7 +2,7 @@ package academia.devdojo.maratonajava.javacore.Npolimorfismo.dominio;
 
 /*
     1- Esta classe Produto foi criada como abstrata com o intúito de ser apenas extendida
-    Onde classes concretas terão sua procedência Extendendo desta classe.
+Onde classes concretas terão sua procedência Extendendo desta classe.
  */
 
 public abstract class Produto implements Taxavel {
