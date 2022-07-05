@@ -3,7 +3,6 @@ package academia.devdojo.maratonajava.javacore.Npolimorfismo.Teste;
 import academia.devdojo.maratonajava.javacore.Npolimorfismo.repositorio.Repositorio;
 import academia.devdojo.maratonajava.javacore.Npolimorfismo.repositorio.RepositorioBancoDeDados;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
