@@ -19,6 +19,10 @@ public class Tomate extends Produto {
         return this.valor * IMPOSTO_POR_CENTO;
     }
 
+    public void setDataValidade(String dataValidade) {
+        this.dataValidade = dataValidade;
+    }
+
     public String getDataValidade() {
         return dataValidade;
     }
