@@ -1,0 +1,10 @@
+AULA 54 - Coesão
+Código com alta coesão, é um código que está fazendo o mínimo possivel, tendo todo seu parametro bem definido.
+
+Código com baixa coesão, é um código que está fazendo coisas além do que deveria fazer.
+
+Acoplamento: quanto uma classe conhece da outra.
+Uma maneira de garantir um baixo acoplamento, é utilizando os modificadores de acesso.
+
+Modificadores de acesso publico: tem acesso atravez de qualquer classe.
+Modificador de acesso private: apemas terar acesso pelo objeto.
